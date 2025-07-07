@@ -47,8 +47,10 @@ Each CSV file contains historical data for a specific token, including:
 
 ## 📈 Example Visualizations
 
-- **Price Trends for Popular Altcoins**  
-  *![line charts of closing prices over time](popular-altcoin-trend.png)*
+- **Price Trends for Popular Altcoins**
+  
+  *![popular-altcoin-trend.png](https://github.com/bramantirs/cryptocurrency-historical-insights/blob/master/screenshoots/popular-altcoin-trend.png?raw=true)*
 
-- **Top 10 Most Volatile Tokens**  
-  *![bar charts of top tokens for volatility](top-10-most-volatile-tokens.png)*
+- **Top 10 Most Volatile Tokens**
+  
+  *![top-10-most-volatile-tokens](https://github.com/bramantirs/cryptocurrency-historical-insights/blob/master/screenshoots/top-10-most-volatile-tokens.png?raw=true)*
